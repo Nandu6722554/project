@@ -1,3 +1,4 @@
-a = 7
-b = 3
-print(max(a, b))
+n = 7
+m = 3
+print(max(n, m))
+print(min(n, m))
